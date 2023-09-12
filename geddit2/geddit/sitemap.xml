@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>geddit-usa.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>geddit-app.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>gamification.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>gamification-app.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>gamification-software.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>metaverse-game.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>metaverse-games.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>paradox-metaverse.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>metaverse-avatar.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>metaverse-gaming.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>metaverse-platforms.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2023-09-12T17:08:30+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
